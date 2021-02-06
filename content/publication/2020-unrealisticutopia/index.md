@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
 doi: 10.1057/s41296-020-00423-3
-publication: *Contemporary Political Theory
+publication: *Contemporary Political Theory*
 abstract: >-
   The rise of China as the second largest economy and a stable authoritarian
   regime has led political theorists to emphasize the importance of performance

@@ -26,7 +26,7 @@ abstract: Political theorists have been framing the problems of unfreedom and
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2020-08-08T16:40:46.615Z

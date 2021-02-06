@@ -1,5 +1,5 @@
 ---
-title: "Book Review: *Global Justice and Universal Values* by K. W. Ip and S. M. Tsang (in Chinese)"
+title: "Book Review: Global Justice and Universal Values by K. W. Ip and S. M. Tsang (in Chinese)"
 publication_types:
   - "2"
 authors:

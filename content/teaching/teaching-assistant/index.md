@@ -76,9 +76,9 @@ subtitle = ""
 
 * **POL377 Indigenous Feminist and Queer Theories** (TA for Uahikea Maile, Spring 2020)
 
-* **POLB72 Introduction to Political Theory** (TA for Brooke Erin Duffy, Spring 2018 & Spring 2019)
+* **POLB72 Introduction to Political Theory** (TA for Torrey Shanks, Fall 2017; TA for Igor Shoikhedbrod, Summer 2020)
 
-* **POLC71 Political Thought: Rights, Revolution and Resistance** (TA for Torrey Shanks, Fall 2017; TA for Igor Shoikhedbrod, Spring 2020)
+* **POLC71 Political Thought: Rights, Revolution and Resistance** (TA for Torrey Shanks, Spring 2018)
 
 * **JPS315 Sexual Diversity Politics** (TA for Julie Moreau, Spring 2020)
 

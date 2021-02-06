@@ -8,7 +8,7 @@ title: Conferences
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: "Please see CV for more updates"
+header: Please see CV for more updates
+  caption: ""
   image: ""
 ---

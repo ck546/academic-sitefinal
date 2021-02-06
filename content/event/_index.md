@@ -12,3 +12,4 @@ header:
   caption: ""
   image: ""
 ---
+Kwok, C. & Chan, N. K. (2018). The making of contentious political space: The transformation of Victoria Park. Presented at Hong Kong Political Science Association Annual Conference, Hong Kong, November 3.

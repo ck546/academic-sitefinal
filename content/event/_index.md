@@ -1,7 +1,7 @@
 ---
 abstract: /
 view: 1
-title: Conferences
+title: Conferences & Workshops
 location: /
 date_end: 2021-02-03T23:00:00.000Z
 all_day: true
@@ -13,17 +13,19 @@ date: 2021-02-06T16:52:07.938Z
 event: /
 publishDate: 2021-02-06T16:52:07.988Z
 ---
-**Kwok, C.** (2021, February 26). Taking corporate political power seriously: Beyond the firm-state analogy. Paper to be presented at Political Theory Research Workshop, Department of Political Science, University of Toronto, Toronto, Canada.
+**Kwok, C.** (2021, April 14-18). Political political theory of the business corporation: Corporate political power and the political legitimacy of business corporations. Paper presented at Midwest Political Science Association 76th Annual Conference, Palmer House Hilton, Chicago, IL, USA. Converted to virtual due to COVID-19.
 
-**Kwok, C.**, & Chan, N. K. (2020, November 12). Datafication and implicated networks of demobilization: Social movement demobilization in datafied societies. Paper presented at the Paper Development Workshop for the Special Issue for Social Movement Studies “Contentious Data”. Online Zoom Workshop organized by the University of Amsterdam in the Netherlands.
+**Kwok, C.** & Bziuk, B. (2021, April 14-18). The modern structure of business corporations and their limited moral sensibility: Democratization of corporate governance and the morally sensible agent. Paper presented at Midwest Political Science Association 76th Annual Conference, Palmer House Hilton, Chicago, IL, USA. Converted to virtual due to COVID-19.
 
-**Kwok, C.**, & Chan, N. K. (2020, October 28-31). Towards a political theory of data justice: A public good perspective. Paper presented at the 21st Annual Meeting of the Association of Internet Researchers, Dublin, Ireland. Converted from Ireland to virtual due to COVID-19.
+**Kwok, C.** (2021, March 18). Taking corporate political power seriously: Beyond the firm-state analogy. Paper to be presented at Spring Workshop of the ERC Corporatocracy Project, Department of Philosophy and Religious Studies, Utrecht University, Utrecht, The Netherlands. Converted to virtual due to COVID-19.
 
-Chan, N. K., & **Kwok, C.** (2020, October 28-31). Guerilla capitalism and the platform economy: Governing Uber in China, Taiwan, and Hong Kong. Paper presented at the 21st Annual Meeting of the Association of Internet Researchers, Dublin, Ireland. Converted from Ireland to virtual due to COVID-19. 
+**Kwok, C.** (2021, February 26). Taking corporate political power seriously: Beyond the firm-state analogy. Paper to be presented at Political Theory Research Workshop, Department of Political Science, University of Toronto, Toronto, Canada. Converted to virtual due to COVID-19.
 
-**Kwok, C.** (2020, September 10-13). Temporal injustices at work and democratic de-consolidation. Paper presented at American Political Science Association 2020 Annual Meeting & Exhibition, San Francisco, CA, U.S.A. Converted from San Francisco to virtual due to COVID-19.
+**Kwok, C.**, & Chan, N. K. (2020, October 28-31). Towards a political theory of data justice: A public good perspective. Paper presented at the 21st Annual Meeting of the Association of Internet Researchers, Dublin, Ireland. Converted to virtual due to COVID-19.
 
-**Kwok, C.** (2020, March 27). Epistemic justice and workplace organization. Paper originally scheduled to present at Political Theory Research Workshop, Department of Political Science, University of Toronto, Toronto, Canada. Workshop cancelled due to COVID-19.
+Chan, N. K., & **Kwok, C.** (2020, October 28-31). Guerilla capitalism and the platform economy: Governing Uber in China, Taiwan, and Hong Kong. Paper presented at the 21st Annual Meeting of the Association of Internet Researchers, Dublin, Ireland. Converted to virtual due to COVID-19. 
+
+**Kwok, C.** (2020, September 10-13). Temporal injustices at work and democratic de-consolidation. Paper presented at American Political Science Association 2020 Annual Meeting & Exhibition, San Francisco, CA, U.S.A. Converted to virtual due to COVID-19.
 
 **Kwok, C.** (2019, August 29-September 1). Emotional labor, consumer domination, and anti-democracy feelings. Paper presented at American Political Science Association 2019 Annual Meeting & Exhibition, Washington, D. C., U.S.A.
 

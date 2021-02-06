@@ -1,6 +1,6 @@
 ---
-title: "Work autonomy and workplace democracy: the polarization of the goods of
-  work autonomy in the two worlds of work"
+title: Work autonomy and workplace democracy
+subtitle: " the polarization of the goods of work autonomy in the two worlds of work"
 publication_types:
   - "0"
   - "2"

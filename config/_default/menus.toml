@@ -38,7 +38,3 @@
   url = "/"
   weight = 50
 
-[[main]]
-  name = "Contact"
-  url = "contact"
-  weight = 60

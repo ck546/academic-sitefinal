@@ -3,7 +3,7 @@ title: "Epistemic injustice in workplace hierarchies: Power, knowledge and statu
 publication_types:
   - "2"
 authors:
-  - Chi Kwok
+  - admin
 doi: 10.1177/0191453720961523
 publication: "*Philosophy and Social Criticism*"
 abstract: Contemporary workplaces are mostly hierarchical. Intrinsic and

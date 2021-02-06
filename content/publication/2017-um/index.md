@@ -7,6 +7,7 @@ authors:
   - admin
   - Ngai Keung Chan
 doi: 10.4000/chinaperspectives.7375
+publication: "*China Perspectives, 2017/3*, 7-16"
 abstract: Social movements are voluntary events whose participants have the
   right to leave whenever they disagree with their leaders. For this reason, the
   legitimacy of social movements is often perceived as inherent and thus of only

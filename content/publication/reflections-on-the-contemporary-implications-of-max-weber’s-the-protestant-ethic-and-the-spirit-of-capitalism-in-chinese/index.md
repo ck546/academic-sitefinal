@@ -4,7 +4,7 @@ title: Reflections on the Contemporary Implications of Max Weber’s The
 publication_types:
   - "2"
 authors:
-  - admin
+  - "Kwok, C."
 publication: "*Twenty-First Century, 179*, 33-43"
 draft: false
 featured: false

@@ -1,12 +1,19 @@
 ---
-title: 2019-br-globaljusticeanduniversalvalues
+title: "Book Review: Global Justice and Universal Values by K. W. Ip and S. M. Tsang (in Chinese)"
 publication_types:
-  - "0"
+  - "2"
+authors:
+  - admin
+publication: "*Twenty-First Century, 173*, 150-158"
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-02-06T22:20:35.972Z
+date: 2019-06-24T21:12:51.861Z
+# links:
+# - name: ""
+#   url: ""
+url_pdf: http://www.cuhk.edu.hk/ics/21c/media/articles/c173-201902004.pdf
 ---

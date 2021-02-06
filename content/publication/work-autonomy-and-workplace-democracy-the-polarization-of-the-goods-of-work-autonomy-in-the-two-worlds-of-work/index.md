@@ -7,7 +7,7 @@ publication_types:
 authors:
   - admin
 doi: 10.1080/00346764.2019.1690671
-publication: "*Review of Social Economy, 78(5)*, 351-372"
+publication: "*Review of Social Economy, 78*(5), 351-372"
 abstract: Political theorists have been framing the problems of unfreedom and
   domination at work as inconsistent with the requirements of political
   democracy, undermining the democratic potential of the workplace and inducing

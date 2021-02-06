@@ -36,4 +36,8 @@ image:
   caption: ""
 date: 2020-08-08T16:40:46.615Z
 ---
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
 Awarded the Helen Potter Award by the Association for Social Economics for the best article published in the *Review of Social Economy* in 2020.

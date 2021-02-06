@@ -33,4 +33,8 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2020-07-10T20:59:40.134Z
+# links:
+# - name: ""
+#   url: ""
+url_pdf: https://link.springer.com/content/pdf/10.1057/s41296-020-00423-3.pdf
 ---

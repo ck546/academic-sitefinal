@@ -32,6 +32,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-  alt_text: Testing
+  alt_text: ""
+  caption: Testing
 date: 2020-08-08T16:40:46.615Z
 ---

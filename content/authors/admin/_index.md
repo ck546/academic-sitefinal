@@ -18,16 +18,16 @@ social:
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=H7nrpDMAAAAJ&hl=en
   - icon: academia
-    icon_pack: fab
+    icon_pack: ai
     link: https://uu.academia.edu/ChiKwok
   - display:
       header: false
     link: https://orcid.org/0000-0003-3754-2447
-    icon_pack: fab
+    icon_pack: ai
     icon: orcid
   - display:
       header: false
-    icon_pack: fab
+    icon_pack: ai
     icon: CV
     link: N/A
 organizations:

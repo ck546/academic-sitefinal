@@ -19,7 +19,7 @@ publishDate: 2021-02-06T16:52:07.988Z
 
 **Kwok, C.** (2021, March 18). Taking corporate political power seriously: Beyond the firm-state analogy. Paper to be presented at Spring Workshop of the ERC Corporatocracy Project, Department of Philosophy and Religious Studies, Utrecht University, Utrecht, The Netherlands. Converted to virtual due to COVID-19.
 
-**Kwok, C.** (2021, February 26). Taking corporate political power seriously: Beyond the firm-state analogy. Paper to be presented at Political Theory Research Workshop, Department of Political Science, University of Toronto, Toronto, Canada. Converted to virtual due to COVID-19.
+**Kwok, C.** (2021, February 26). Taking corporate political power seriously: Beyond the firm-state analogy. Paper to be presented at Political Theory Research Workshop, Department of Political Science, University of Toronto, Toronto, Ontario, Canada. Converted to virtual due to COVID-19.
 
 **Kwok, C.**, & Chan, N. K. (2020, October 28-31). Towards a political theory of data justice: A public good perspective. Paper presented at the 21st Annual Meeting of the Association of Internet Researchers, Dublin, Ireland. Converted to virtual due to COVID-19.
 

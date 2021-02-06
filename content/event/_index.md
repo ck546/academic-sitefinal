@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Conferences
 
 # View.
 #   1 = List
@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "Please see CV for more updates"
   image: ""
 ---

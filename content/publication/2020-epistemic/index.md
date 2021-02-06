@@ -1,0 +1,12 @@
+---
+title: 2020-epistemic
+publication_types:
+  - "0"
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+date: 2021-02-06T21:50:01.079Z
+---

@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Projects"
-  url = "#README"
+  url = "#README.md"
   weight = 20
 
 [[main]]

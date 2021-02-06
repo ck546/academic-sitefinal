@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Home"
-  url = "about"
+  url = "https://www.chikwok.com/"
   weight = 20
 
 [[main]]

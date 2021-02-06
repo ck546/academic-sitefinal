@@ -66,7 +66,11 @@ subtitle = ""
  css_class = ""
 +++
 
-**COMM3760 Planning Communication Campaigns** (Spring 2020, Cornell)
+**POLC37 Global Justice** (Summer 2020, University of Toronto)
 
-**COMM2200 Media Communication** (Online course; Summer 2018 & Summer 2019, Cornell)
+**CGE14411 Critical Thinking** (Fall 2019, UOW College Hong Kong)
+
+**GCVM1036 Human Rights in a Multicultural World** (Fall 2018, Hong Kong Baptist University)
+
+**GFVM1005 Ethical Controversies in Hong Kong Today** (Fall 2018, Hong Kong Baptist University)
 

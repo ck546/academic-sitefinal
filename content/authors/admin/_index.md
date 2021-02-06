@@ -1,7 +1,7 @@
 ---
 title: Chi Kwok
 role: Postdoctoral Researcher
-avatar_filename: avatar.jpg.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Democratic Theory

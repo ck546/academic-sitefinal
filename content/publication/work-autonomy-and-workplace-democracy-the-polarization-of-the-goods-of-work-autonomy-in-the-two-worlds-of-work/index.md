@@ -33,6 +33,6 @@ image:
   focal_point: Smart
   preview_only: false
   alt_text: ""
-  caption: Testing
+  caption: ""
 date: 2020-08-08T16:40:46.615Z
 ---

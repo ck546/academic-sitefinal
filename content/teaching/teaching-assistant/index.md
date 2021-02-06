@@ -86,7 +86,7 @@ subtitle = ""
 
 * **CCCH9013 Love, Marriage and Sex in Modern China** (TA for Petula Sik Ying Ho, Spring 2015)
 
-* **CCCH9014 Social Development Challenges in China ** (TA for Lucy Jordan, Fall 2014)
+* **CCCH9014 Social Development Challenges in China** (TA for Lucy Jordan, Fall 2014)
 
 * **CCCH9015 Population, Society and Sustainable Development in Hong Kong** (TA for Paul Siu Fai Yip, Fall 2014)
 

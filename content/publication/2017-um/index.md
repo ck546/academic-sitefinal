@@ -32,4 +32,8 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2017-09-01T20:43:39.688Z
+# links:
+# - name: ""
+#   url: ""
+url_pdf: https://journals.openedition.org/chinaperspectives/pdf/7375
 ---

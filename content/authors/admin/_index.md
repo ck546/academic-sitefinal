@@ -709,6 +709,6 @@ highlight_name: false
 
 <!--StartFragment-->
 
-Hello! My name is Chi Kwok. I am a postdoctoral researcher in the Department of Philosophy and Religious Studies at Utrecht University in The Netherlands. I am a member of the European Research Council funded project "[The Business Corporation as a Political Actor](https://businesscorporation.sites.uu.nl/)". I specialize in political theory and comparative development studies. I obtained his PhD in political theory from the Department of Political Science at the University of Toronto in November 2020. From 2015 to 2019, I served as a graduate associate at the Center for Critical Development Studies at the University of Toronto Scarborough. In 2019, I was a visiting fellow at Normative Orders at Goethe University Frankfurt in Germany.
+Hello! My name is Chi Kwok. I am a postdoctoral researcher in the Department of Philosophy and Religious Studies at Utrecht University in The Netherlands. I am a member of the European Research Council funded project "[The Business Corporation as a Political Actor](https://businesscorporation.sites.uu.nl/)". I specialize in political theory and comparative development studies. I obtained my PhD in political theory from the Department of Political Science at the University of Toronto in November 2020. From 2015 to 2019, I served as a graduate associate at the Center for Critical Development Studies at the University of Toronto Scarborough. In 2019, I was a visiting fellow at Normative Orders at Goethe University Frankfurt in Germany.
 
 <!--EndFragment-->

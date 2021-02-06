@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Democratic Theory
-  - Theories of Social Justice
-  - Political Theories of Business Corporations
+  - Workplace Democracy
+  - Social Justice
   - Business Ethics
   - Social Movement
 social:

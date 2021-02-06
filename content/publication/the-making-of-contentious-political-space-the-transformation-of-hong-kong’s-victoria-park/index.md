@@ -25,10 +25,15 @@ abstract: Space plays a vital role in structuring and forming social movements
   spatial constraints of contentious politics.
 draft: false
 featured: false
+tags:
+  - Public space
+  - social movement
+  - spatial norms
+  - Victoria Park
+  - Hong Kong
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-02-06T20:22:32.006Z
+date: 2020-03-14T20:22:32.006Z
 ---
-111

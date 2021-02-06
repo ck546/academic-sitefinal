@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Chan.N.K.
+  - Ngai Keung Chan
 doi: 10.1177/1206331220912160
 publication: "*Space and Culture*"
 abstract: Space plays a vital role in structuring and forming social movements

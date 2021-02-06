@@ -36,3 +36,4 @@ image:
   caption: ""
 date: 2020-08-08T16:40:46.615Z
 ---
+Awarded the Helen Potter Award by the Association for Social Economics for the best article published in the *Review of Social Economy* in 2020.

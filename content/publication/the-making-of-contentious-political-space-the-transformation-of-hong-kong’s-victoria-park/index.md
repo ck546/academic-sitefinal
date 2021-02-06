@@ -4,10 +4,8 @@ title: "The Making of Contentious Political Space: The Transformation of Hong
 publication_types:
   - "2"
 authors:
-  - Kwok
-  - C.
-  - "& Chan"
-  - N. K.
+  - admin
+  - Chan.N.K.
 doi: 10.1177/1206331220912160
 publication: "*Space and Culture*"
 abstract: Space plays a vital role in structuring and forming social movements

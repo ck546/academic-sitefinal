@@ -5,8 +5,10 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Democratic Theory
-  - Economic Justice
-  - Business Corporation
+  - Theories of Social Justice
+  - Political Theories of Business Corporations
+  - Business Ethics
+  - Social Movement
 social:
   - icon: envelope
     icon_pack: fas

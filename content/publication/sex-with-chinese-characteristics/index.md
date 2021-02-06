@@ -1,5 +1,5 @@
 ---
-title: Sex With Chinese Characteristics
+title: "Sex With Chinese Characteristics: Sexuality Research in/on 21st-Century China"
 publication_types:
   - "2"
 authors:

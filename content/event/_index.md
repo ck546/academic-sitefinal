@@ -13,6 +13,8 @@ date: 2021-02-06T16:52:07.938Z
 event: /
 publishDate: 2021-02-06T16:52:07.988Z
 ---
+
+
 **Kwok, C.** (2021, April 14-18). Political political theory of the business corporation: Corporate political power and the political legitimacy of business corporations. Paper to be presented at Midwest Political Science Association 76th Annual Conference, Palmer House Hilton, Chicago, IL, USA. Converted to virtual due to COVID-19.
 
 **Kwok, C.,** & Bziuk, B. (2021, April 14-18). The modern structure of business corporations and their limited moral sensibility: Democratization of corporate governance and the morally sensible agent. Paper to be presented at Midwest Political Science Association 76th Annual Conference, Palmer House Hilton, Chicago, IL, USA. Converted to virtual due to COVID-19.

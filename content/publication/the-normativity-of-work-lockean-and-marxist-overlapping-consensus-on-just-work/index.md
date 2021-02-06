@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
 doi: 10.1177/0971685820941996
-publication: "*Journal of Human Values, 26(3)*, 228-237"
+publication: "*Journal of Human Values, 26*(3), 228-237"
 abstract: Work is an integral part of modern society. However, the question of
   the normative conditions that distinguish just from unjust work has been
   under-investigated in political theory. This article, by comparing the Lockean

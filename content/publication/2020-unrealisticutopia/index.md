@@ -1,5 +1,6 @@
 ---
-title: 2020-unrealisticutopia
+title: "(Un)realistic utopia: Rethinking political legitimacy, democracy, and
+  resistance in China"
 publication_types:
   - "2"
 authors:

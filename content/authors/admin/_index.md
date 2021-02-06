@@ -17,9 +17,19 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=H7nrpDMAAAAJ&hl=en
-  - icon: github
+  - icon: academia
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://uu.academia.edu/ChiKwok
+  - display:
+      header: false
+    link: https://orcid.org/0000-0003-3754-2447
+    icon_pack: fab
+    icon: orcid
+  - display:
+      header: false
+    icon_pack: fab
+    icon: CV
+    link: N/A
 organizations:
   - name: Department of Philosophy and Religious Studies, Utrecht University
     url: https://businesscorporation.sites.uu.nl/

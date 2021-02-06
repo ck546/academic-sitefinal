@@ -70,24 +70,30 @@ subtitle = ""
 
 * **POL101 Power and Politics** (TA for Courtney Jung & Randall Hansen, Fall 2015 to Spring 2017; TA for Ryan Balot & Courtney Jung, Spring 2020)
 
-* **POL113 Ideas and Ideologies** (TA for Lee Humphreys, Fall 2017)
+* **POL113 Ideas and Ideologies** (TA for Aslan Amani, Spring 2020)
 
-* **COMM2450 Communication and Technology** (TA for Drew Margolin, Fall 2016)
+* **POL200 Political Theory: Visions of the Just/Good Society** (TA for Armend Mazreku, Summer 2020)
 
-* **COMM2820 Research Methods in Communication Studies** (TA for Natalie Bazarova, Fall, 2019)
+* **POL377 Indigenous Feminist and Queer Theories** (TA for Uahikea Maile, Spring 2020)
 
-* **COMM3200 New Media & Society** (TA for Brooke Erin Duffy, Spring 2018 & Spring 2019)
+* **POLB72 Introduction to Political Theory** (TA for Brooke Erin Duffy, Spring 2018 & Spring 2019)
 
-* **COMM3760 Planning Communication Campaigns** (TA for Jeff Niederdeppe, Fall 2018)
+* **POLC71 Political Thought: Rights, Revolution and Resistance** (TA for Torrey Shanks, Fall 2017; TA for Igor Shoikhedbrod, Spring 2020)
+
+* **JPS315 Sexual Diversity Politics** (TA for Julie Moreau, Spring 2020)
+
+**The University of Hong Kong**
+
+* **CCCH9013 Love, Marriage and Sex in Modern China** (TA for Petula Sik Ying Ho, Spring 2015)
+
+* **CCCH9014 Social Development Challenges in China ** (TA for Lucy Jordan, Fall 2014)
+
+* **CCCH9015 Population, Society and Sustainable Development in Hong Kong** (TA for Paul Siu Fai Yip, Fall 2014)
+
+* **CCCH9023 Family and Development in Modern China** (TA for Maosheng Ran, Spring 2015)
 
 **The Chinese University of Hong Kong**
 
-* **COMM1120 Development of Mass Communication** (TA for Lokman Tsui, Fall 2015, Spring 2015, Fall 2016, & Spring 2016)
+* **GPAD1095 Issues in Political Philosophy** (TA for Po Chung Chow, Spring 2013)
 
-* **COMM1140 Debating Mass Media** (TA for Lokman Tsui, Spring 2015)
 
-* **COMM2160 Communication Research Methods** (TA for Michael Chan, Spring 2015)
-
-* **COMM2600 Introduction to Journalism** (TA for Allan Au, Summer 2015 & Summer 2016)
-
-* **COMM2910 News Analysis** (TA for Paul Siu Nam Lee, Spring 2016)

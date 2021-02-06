@@ -32,7 +32,7 @@ social:
     link: N/A
 organizations:
   - name: Department of Philosophy and Religious Studies, Utrecht University
-    url: https://businesscorporation.sites.uu.nl/
+    url: https://www.uu.nl/en/organisation/department-of-philosophy-and-religious-studies
 education:
   courses:
     - course: PhD in Political Science

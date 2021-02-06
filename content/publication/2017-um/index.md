@@ -1,5 +1,6 @@
 ---
-title: 2017-UM
+title: "Legitimacy and Forced Democratisation in Social Movements: A Case Study
+  of the Umbrella Movement in Hong Kong"
 publication_types:
   - "2"
 authors:

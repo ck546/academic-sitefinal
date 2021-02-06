@@ -24,6 +24,12 @@ abstract: Work is an integral part of modern society. However, the question of
   blocks.
 draft: false
 featured: false
+tags:
+  - Just work
+  - Locke
+  - Marx
+  - justice
+  - normative work
 image:
   filename: ""
   focal_point: Smart

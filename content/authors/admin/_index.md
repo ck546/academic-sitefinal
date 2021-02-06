@@ -41,7 +41,7 @@ education:
     - course: MA in Political Science
       institution: University of Toronto
       year: 2014
-    - course: BSSc in Social Science with Honours (1st Class)
+    - course: BSSc in Social Science with Honours (First Class)
       institution: The Chinese University of Hong Kong
       year: 2013
 email: ""

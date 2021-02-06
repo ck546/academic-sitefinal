@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Home"
-  url = "home/about.md"
+  url = "home"
   weight = 20
 
 [[main]]

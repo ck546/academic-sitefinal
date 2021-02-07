@@ -46,4 +46,4 @@ This book project is based on my doctoral dissertation. It problematizes the Chi
 
 * Kwok, C. (2020). ["Work autonomy and workplace democracy: The polarization of the goods of work autonomy in the two worlds of work"](https://doi.org/10.1080/00346764.2019.1690671). *Review of Social Economy, 78*(3), 351-372.
 
-Research from this project won the Helen Potter Award from the Association for Social Economics (ASE) for the best article published in the *Review of Social Economics* in 2020.
+Research from this project won the [Helen Potter Award](https://socialeconomics.org/awards-grants/hellen-potter-award/) from the Association for Social Economics (ASE) for the best article published in the *Review of Social Economics* in 2020.

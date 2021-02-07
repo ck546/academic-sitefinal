@@ -26,6 +26,11 @@ social:
     link: https://uu.academia.edu/ChiKwok
   - display:
       header: false
+    icon_pack: ai
+    icon: researchgate
+    link: https://www.researchgate.net/profile/Chi_Kwok2
+  - display:
+      header: false
     link: https://orcid.org/0000-0003-3754-2447
     icon_pack: ai
     icon: orcid

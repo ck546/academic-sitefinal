@@ -49,4 +49,4 @@ This project explores the economic, political, and comparative dimension of the 
 * Kwok, C. "Confucianism and virtue economics: The late-Qing Confucian conception of business corporation".
 
 
-Research from this project was presented at 2018 APSA conference and will be presented at the 2020 MPSA conference.
+Research from this project was presented at the 2018 APSA conference and will be presented at the 2020 MPSA conference.

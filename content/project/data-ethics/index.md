@@ -52,4 +52,4 @@ The central theme of this project is that the introduction of big data has funda
 
 * Chan, N. K., & Kwok, C. "Data cooperatives: Alternative imaginaries of data collection and ownership".
 
-Research from this project were presented at the 2020 AoIR conference and won the Best Student Paper Award for the AoIR conference 2020.
+Research from this project were presented at the 2020 AoIR conference and won the [Best Student Paper Award](https://aoir.org/awards/student-paper/) of the conference.

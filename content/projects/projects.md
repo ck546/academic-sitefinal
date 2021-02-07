@@ -34,16 +34,20 @@ subtitle = ""
     tag = "archived"    
     
   [[content.filter_button]]
-    name = "Gig Economy"
-    tag = "gigeconomy"
+    name = "Workplace"
+    tag = "workplace"
 
   [[content.filter_button]]
-    name = "Politics of Platforms and Algorithms"
-    tag = "platforms"
+    name = "Corporation"
+    tag = "corporation"
     
    [[content.filter_button]]
-    name = "Hong Kong"
-    tag = "hk"
+    name = "Politics of Data and Algorithms"
+    tag = "data"
+    
+   [[content.filter_button]]
+    name = "Social Movement"
+    tag = "movement"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

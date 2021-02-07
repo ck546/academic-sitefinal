@@ -9,6 +9,8 @@ interests:
   - Social Justice
   - Business Ethics
   - Social Movement
+  - Data Ethics
+  - Politics of Platform and Algorithm
 social:
   - icon: envelope
     icon_pack: fas

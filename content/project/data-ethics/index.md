@@ -41,7 +41,7 @@ The central theme of this project is that the introduction of big data has funda
 
 **Collaborator:** [Ngai Keung Chan](https://ngaikeungchan.com/)
 
-**Work in Progress** 
+**Work in Progress:** 
 * Kwok, C., & Chan, N. K. "Towards a political theory of data justice: A public good perspective".
 
 * Chan, N. K., & Kwok, C. "Guerilla capitalism and the platform economy: Governing Uber in China, Taiwan, and Hong Kong". 

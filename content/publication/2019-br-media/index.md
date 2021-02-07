@@ -6,6 +6,7 @@ publication_types:
   - "2"
 authors:
   - admin
+publication: "*Hong Kong Studies, 2*(1), 95-99"
 draft: false
 featured: false
 image:

@@ -14,4 +14,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2019-05-05T01:44:49.703Z
+url_pdf: https://cup.cuhk.edu.hk/chinesepress/journal/HKS2.1/HKS2.1_09.pdf
 ---

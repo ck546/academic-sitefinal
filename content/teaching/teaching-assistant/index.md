@@ -82,6 +82,10 @@ subtitle = ""
 
 * **JPS315 Sexual Diversity Politics** (TA for Julie Moreau, Spring 2020)
 
+**UOW College Hong Kong**
+
+* **DSS10601 Critical Thinking and Problem Solving** (TA for Benny Chao, Fall 2019)
+
 **The University of Hong Kong**
 
 * **CCCH9013 Love, Marriage and Sex in Modern China** (TA for Petula Sik Ying Ho, Spring 2015)

@@ -84,7 +84,7 @@ subtitle = ""
 
 **UOW College Hong Kong**
 
-* **DSS10601 Critical Thinking and Problem Solving** (TA for Benny Chao, Fall 2019)
+* **DSS10601 Critical Thinking and Problem Solving** (TA for Benny Hon Kit Chao, Fall 2019)
 
 **The University of Hong Kong**
 

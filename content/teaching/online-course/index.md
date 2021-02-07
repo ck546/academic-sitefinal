@@ -70,9 +70,9 @@ subtitle = ""
 
 Below you will find two courses that I co-created with Professor Petula Sik Ying Ho at the University of Hong Kong with the funding support from The Hong Kong Jockey Club.
 
-**[Cross-border Relationships](http://www.socsc.hku.hk/ExCEL3/cross-border-relationships/)**
+**[Cross-border Relationships](http://www.socsc.hku.hk/ExCEL3/cross-border-relationships/)**:
 This e-Case documents the social issue of cross-border relationships in Hong Kong. Since Hong Kong’s handover to the People’s Republic of China in 1997, mainland residents are allowed to visit the territory with less travel restrictions. Adding to more frequent Hong Kong-mainland economic exchanges, there had been a notable rising trend of cross-border familial relations. Since the handover, more than 388,000 cross-border couples have married in either Hong Kong or on the mainland, which accounted for 16 per cent of the total number of households in Hong Kong. This e-case introduces students to the background of this phenomenon as well as relative government policies including the One Way Permit Scheme.
 
-**[Intimate Partner Violence](http://www.socsc.hku.hk/ExCEL3/intimate-partner-violence/)**
+**[Intimate Partner Violence](http://www.socsc.hku.hk/ExCEL3/intimate-partner-violence/)**:
 The social issue of intimate partner violence (IPV) in Hong Kong is getting more serious in recent years. The number of battered spouse cases tripled from 1,009 cases at 1998 to 3,034 cases in 2002, steadily increase to a peak number of nearly 7,000 cases in 2008. The case introduces the audience to common risk factors of IPV and how they relate to socio-economic characteristics unique to Hong Kong. These considerations often provide insights and nuanced explanations on why victims decline to leave an abusive relationship, or fail to recognize their being abused. The phenomenon also expands to cohabitants comprising family members. This case can be used in teaching intimate partner violence and family planning policies.
 

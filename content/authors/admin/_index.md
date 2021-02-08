@@ -38,7 +38,7 @@ social:
       header: false
     icon_pack: ai
     icon: CV
-    link: N/A
+    link: https://www.chikwok.com/files/cv.pdf
 organizations:
   - name: Department of Philosophy and Religious Studies, Utrecht University
     url: https://www.uu.nl/en/organisation/department-of-philosophy-and-religious-studies

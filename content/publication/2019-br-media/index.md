@@ -1,13 +1,13 @@
 ---
-draft: false
-url_pdf: https://cup.cuhk.edu.hk/chinesepress/journal/HKS2.1/HKS2.1_09.pdf
 title: "Book Review: Media and Protest Logics in the Digital Era: The Umbrella
   Movement in Hong Kong by F. L. F. Lee and J. M. Chan"
 publication_types:
-  - "2"
+  - "0"
 authors:
   - admin
 publication: "*Hong Kong Studies, 2*(1), 95-99"
+draft: false
+url_pdf: https://cup.cuhk.edu.hk/chinesepress/journal/HKS2.1/HKS2.1_09.pdf
 featured: false
 image:
   filename: ""

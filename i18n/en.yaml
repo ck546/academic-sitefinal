@@ -195,7 +195,7 @@
 - id: pub_patent
   translation: Patent
 
-- id: pub_book_review
+- id: pub_review
   translation: Book review
 
 # Project details

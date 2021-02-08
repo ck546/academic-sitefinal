@@ -35,6 +35,6 @@
 
 [[main]]
   name = "CV"
-  url = "https://www.chikwok.com/files/cv.pdf"
+  url = "files/cv.pdf"
   weight = 50
 

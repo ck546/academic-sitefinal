@@ -1,8 +1,6 @@
 ---
 title: "(Un)realistic utopia: Rethinking political legitimacy, democracy, and
   resistance in China"
-publication_types:
-  - "2"
 authors:
   - admin
 doi: 10.1057/s41296-020-00423-3
@@ -22,6 +20,9 @@ abstract: "The two books under review challenge two widely shared assumptions
   stability of the regime; rather, it invites people to resist the regime
   creatively in ways that the regime cannot anticipate in advance."
 draft: false
+url_pdf: https://link.springer.com/content/pdf/10.1057/s41296-020-00423-3.pdf
+publication_types:
+  - "0"
 featured: false
 tags: null
 image:
@@ -29,8 +30,4 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2020-07-10T19:22:32.006Z
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://link.springer.com/content/pdf/10.1057/s41296-020-00423-3.pdf
 ---

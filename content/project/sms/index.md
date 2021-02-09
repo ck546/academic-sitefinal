@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Economic, Political, and Comparative Theories of the Business Corporation"
+title: "Political Theory of Resistance: Empirical and Normative"
 authors: [admin]
-tags: [active, data, corporation, workplace]
+tags: [active, movement]
 summary: ""
 categories: []
 date: "2018-09-01T00:00:00Z"

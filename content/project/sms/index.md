@@ -44,7 +44,7 @@ Identifying injustices and offering institutional alternatives are insufficient 
 * Kwok, C., & Chan, N. K. (2017). ["Legitimacy and forced democratization in social movements: A case study of the Umbrella Movement in Hong Kong"](https://doi.org/10.4000/chinaperspectives.7375). *China Perspectives, 2017/3*, 7-16.
 
 **Work in Progress:** 
-* Kwok, C. "5.	The morality of resistance: Regime types and the moral boundaries of political resistance".
+* Kwok, C. "The morality of resistance: Regime types and the moral boundaries of political resistance".
 
 
 

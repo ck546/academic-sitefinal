@@ -31,7 +31,7 @@ social:
     link: https://www.researchgate.net/profile/Chi_Kwok2
   - display:
       header: false
-    icon: publics
+    icon: publons
     label: ""
     icon_pack: ai
     link: https://publons.com/researcher/4238018/chi-kwok/peer-review/

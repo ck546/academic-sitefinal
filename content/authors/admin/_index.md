@@ -31,6 +31,12 @@ social:
     link: https://www.researchgate.net/profile/Chi_Kwok2
   - display:
       header: false
+    icon: publics
+    label: ""
+    icon_pack: ai
+    link: https://publons.com/researcher/4238018/chi-kwok/peer-review/
+  - display:
+      header: false
     link: https://orcid.org/0000-0003-3754-2447
     icon_pack: ai
     icon: orcid
@@ -53,11 +59,11 @@ education:
     - course: BSSc in Government and Public Administration with Honours (First Class)
       institution: The Chinese University of Hong Kong
       year: 2013
-email: ""
 superuser: true
 user_groups:
   - Researchers
 highlight_name: false
+email: ""
 ---
 Welcome to my homepage! I am a postdoctoral researcher in the Department of Philosophy and Religious Studies at Utrecht University in The Netherlands. I am a member of the European Research Council funded project "[The Business Corporation as a Political Actor](https://businesscorporation.sites.uu.nl/)". I specialize in political theory and comparative development studies. I obtained my PhD in political theory from the Department of Political Science at the University of Toronto in November 2020. From 2015 to 2019, I served as a graduate associate at the [Center for Critical Development Studies](https://www.utsc.utoronto.ca/ccds/) at the University of Toronto Scarborough. In 2019, I was a visiting fellow at [Normative Orders](https://www.normativeorders.net/en/) at Goethe University Frankfurt in Germany. I recently received the [Helen Potter Award](https://socialeconomics.org/awards-grants/hellen-potter-award/) from the Association for Social Economics (ASE) for the best article published in the *Review of Social Economy* and the[ Best Student Paper Award](https://aoir.org/awards/student-paper/) from the Association of Internet Researchers (AoIR).
 

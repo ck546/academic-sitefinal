@@ -12,6 +12,9 @@ interests:
   - Data Ethics
   - Politics of Platforms and Algorithms
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:c.kwok@uu.nl
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ck3318
@@ -37,9 +40,6 @@ social:
     icon_pack: ai
     icon: cv
     link: https://www.chikwok.com/files/cv.pdf
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:c.kwok@uu.nl
 organizations:
   - name: Department of Philosophy and Religious Studies, Utrecht University
     url: https://www.uu.nl/en/organisation/department-of-philosophy-and-religious-studies

@@ -32,7 +32,11 @@ subtitle = ""
    [[content.filter_button]]
     name = "Archived"
     tag = "archived"    
-    
+
+  [[content.filter_button]]
+    name = "Book"
+    tag = "book"
+
   [[content.filter_button]]
     name = "Workplace"
     tag = "workplace"

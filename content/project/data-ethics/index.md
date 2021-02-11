@@ -3,7 +3,7 @@
 
 title: "The Ethics of Big Data: Data Power and Democracy"
 authors: [admin]
-tags: [active, data, movement, corporation]
+tags: [active, book, data, movement, corporation]
 summary: ""
 categories: []
 date: "2018-09-01T00:00:00Z"

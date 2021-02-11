@@ -3,7 +3,7 @@
 
 title: "Justice in the Workplace: A Political Theory of Workplace Control "
 authors: [admin]
-tags: [active, workplace]
+tags: [active, book, workplace]
 summary: ""
 categories: []
 date: "2018-09-01T00:00:00Z"

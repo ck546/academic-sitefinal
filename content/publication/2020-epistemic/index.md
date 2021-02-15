@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
 doi: 10.1177/0191453720961523
-publication: "*Philosophy and Social Criticism*"
+publication: "*Philosophy & Social Criticism*"
 abstract: Contemporary workplaces are mostly hierarchical. Intrinsic and
   extrinsic bads of workplace hierarchies have been widely discussed in the
   literature on workplace democracy and workplace republicanism. However, a

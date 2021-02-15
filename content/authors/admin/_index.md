@@ -11,6 +11,7 @@ interests:
   - Social Movement
   - Data Ethics
   - Politics of Platforms and Algorithms
+  - Comparative Political Philosophy
 social:
   - icon: envelope
     icon_pack: fas

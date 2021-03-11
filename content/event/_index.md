@@ -13,6 +13,12 @@ date: 2021-02-06T16:52:07.938Z
 event: /
 publishDate: 2021-02-06T16:52:07.988Z
 ---
+**Organizer**
+
+**Kwok, C.**, Claassen, R., & Rector, T. (2021, September 7-10). Workshop Convenor: Political Theory of the Business Corporation. MANCEPT Workshops 2021. Manchester Centre for Political Theory, The University of Manchester, Manchester, UK. (Converted to virtual due to COVID-19).
+
+**Participant**
+
 **Kwok, C.** (2021, April 14-18). Political political theory of the business corporation: Corporate political power and the political legitimacy of business corporations. Paper to be presented at Midwest Political Science Association 76th Annual Conference, Palmer House Hilton, Chicago, IL, USA. Converted to virtual due to COVID-19.
 
 **Kwok, C.** (2021, March 18). Taking corporate political power seriously: Beyond the firm-state analogy. Paper to be presented at Spring Workshop of the ERC Corporatocracy Project, Department of Philosophy and Religious Studies, Utrecht University, Utrecht, The Netherlands. Converted to virtual due to COVID-19.

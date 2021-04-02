@@ -7,7 +7,7 @@ authors:
   - Ngai Keung Chan
   - admin
 doi: 10.1080/1369118X.2021.1909096
-publication: Information, Communication & Society
+publication: "Information, Communication & Society"
 abstract: "Platforms play an increasingly important role in organizing our
   economic and political systems globally. Drawing on the varieties of
   capitalism (VoC) approach and the notion of regulatory entrepreneurship, this

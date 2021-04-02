@@ -1,7 +1,8 @@
 ---
-title: 2021-Uber
+title: "Guerilla capitalism and the platform economy: Governing Uber in China,
+  Taiwan, and Hong Kong"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Ngai Keung Chan
   - admin

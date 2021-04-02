@@ -1,5 +1,5 @@
 ---
-title: 2021-uber
+title: Guerilla capitalism and the platform economy: Governing Uber in China, Taiwan, and Hong Kong
 publication_types:
   - "2"
 authors:

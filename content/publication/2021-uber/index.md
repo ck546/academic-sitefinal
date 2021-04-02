@@ -28,6 +28,12 @@ abstract: "Platforms play an increasingly important role in organizing our
   Asian contexts which exist under separate and specific political regimes."
 draft: false
 featured: false
+tags:
+  - Uber
+  - platform economy
+  - varieties of capitalism
+  - regulatory entrepreneurship
+  - guerilla capitalism
 image:
   filename: ""
   focal_point: Smart

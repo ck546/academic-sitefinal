@@ -41,10 +41,12 @@ The central theme of this project is that the introduction of big data has funda
 
 **Collaborator:** [Ngai Keung Chan](https://ngaikeungchan.com/)
 
+**Publications:**
+* Chan, N. K., & Kwok, C. [Equal authorship]. (Forthcoming). ["Guerilla capitalism and the platform economy: Governing Uber in China, Taiwan, and Hong Kong"](https://doi.org/10.1080/1369118X.2021.1909096). *Information, Communication & Society*.
+
+
 **Work in Progress:** 
 * Kwok, C., & Chan, N. K. "Towards a political theory of data justice: A public good perspective".
-
-* Chan, N. K., & Kwok, C. "Guerilla capitalism and the platform economy: Governing Uber in China, Taiwan, and Hong Kong". 
 
 * Kwok, C., & Chan, N. K. "The politics of platform power in surveillance capitalism: A comparative case study of ride-hailing platforms in China and the United States".
 

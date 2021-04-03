@@ -19,7 +19,7 @@ social:
     link: mailto:c.kwok@uu.nl
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/chikwokck
+    link: https://twitter.com/ckwokck
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=H7nrpDMAAAAJ&hl=en

@@ -68,4 +68,4 @@ My doctoral dissertation examines social justice and the firm, particularly in r
 
 My current research in the ERC project examines the normative justification of the political power of the firm in liberal democratic contexts. The project examines how classical economic theories and legal theories conceptualize firm power and their normative implications. In addition to my research in the workplace and business corporation, I am also interested in data ethics and social movement. 
 
-My research has appeared in journals such as, among others, *Philosophy & Social Criticism*, *Review of Social Economy*, *Space and Culture*, *Contemporary Political Theory*, and *China Perspectives*.
+My research has appeared in journals such as *Philosophy & Social Criticism, Review of Social Economy, Information, Communication & Society*, *Space and Culture*, *Contemporary Political Theory*, *China Perspectives*, among others.

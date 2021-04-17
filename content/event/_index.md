@@ -19,7 +19,7 @@ publishDate: 2021-02-06T16:52:07.988Z
 
 **Participant**
 
-**Kwok, C.** (2021, September 30-October 3). Confucianism and the Political Theory of the Corporation. Paper to be presented at American Political Science Association (APSA) 2021 Annual Meeting & Exhibition, Seattle, Washington, U.S.A. 
+**Kwok, C.** (2021, September 30-October 3). Confucianism and the Political Theory of the Corporation. Paper to be presented at American Political Science Association (APSA) 2021 Annual Meeting & Exhibition, Seattle, WA, USA. 
 
 **Kwok, C.** (2021, April 14-18). Political political theory of the business corporation: Corporate political power and the political legitimacy of business corporations. Paper presented at Midwest Political Science Association (MPSA) 76th Annual Conference, Palmer House Hilton, Chicago, IL, USA. Converted to virtual due to COVID-19.
 
@@ -33,13 +33,13 @@ publishDate: 2021-02-06T16:52:07.988Z
 
 Chan, N. K., & **Kwok, C.** (2020, October 28-31). Guerilla capitalism and the platform economy: Governing Uber in China, Taiwan, and Hong Kong. Paper presented at the 21st Annual Meeting of the AoIR, Dublin, Ireland. Converted to virtual due to COVID-19. 
 
-**Kwok, C.** (2020, September 10-13). Temporal injustices at work and democratic de-consolidation. Paper presented at APSA 2020 Annual Meeting & Exhibition, San Francisco, CA, U.S.A. Converted to virtual due to COVID-19.
+**Kwok, C.** (2020, September 10-13). Temporal injustices at work and democratic de-consolidation. Paper presented at APSA 2020 Annual Meeting & Exhibition, San Francisco, CA, USA. Converted to virtual due to COVID-19.
 
-**Kwok, C.** (2019, August 29-September 1). Emotional labor, consumer domination, and anti-democracy feelings. Paper presented at APSA  2019 Annual Meeting & Exhibition, Washington, D. C., U.S.A.
+**Kwok, C.** (2019, August 29-September 1). Emotional labor, consumer domination, and anti-democracy feelings. Paper presented at APSA  2019 Annual Meeting & Exhibition, Washington, D. C., USA.
 
 **Kwok, C.**, & Chan, N. K. (2018, November 3). The making of contentious public space: The transformation of Victoria Park. Paper presented at Hong Kong Political Science Association 2018 Annual Conference, City University of Hong Kong, Hong Kong.
 
-**Kwok, C.** (2018, August 30-September 2). Confucianizing western modernity: Late-Qing/early-Republican Confucian officials. Paper presented at APSA  2018 Annual Meeting & Exhibition, Boston, MA, U.S.A.
+**Kwok, C.** (2018, August 30-September 2). Confucianizing western modernity: Late-Qing/early-Republican Confucian officials. Paper presented at APSA  2018 Annual Meeting & Exhibition, Boston, MA, USA.
 
 **Kwok, C.** (2018, April 5-8). Emotional labor, consumer domination, and workplace democracy. Paper presented at MPSA 76th Annual Conference, Palmer House Hilton, Chicago, IL, USA.
 

@@ -15,6 +15,8 @@ publishDate: 2021-02-06T16:52:07.988Z
 ---
 **Organizer**
 
+Claassen, R., **Kwok, C.**, & Rector, T. (2021, November 24-26). Conference Organizer: [The Business Corporation as Political Actor – Comparative Theoretical Perspectives](https://philevents.org/event/show/90079). Funded by European Research Council funded project "The Business Corporation as a Political Actor", Utrecht University, Utrecht, The Netherlands. Converted to virtual due to COVID-19.
+
 **Kwok, C.**, Claassen, R., & Rector, T. (2021, September 7-10). Workshop Convener: [Political Theory of the Business Corporation](https://philevents.org/event/show/88622). MANCEPT Workshops 2021. Manchester Centre for Political Theory, The University of Manchester, Manchester, UK. Converted to virtual due to COVID-19.
 
 **Participant**

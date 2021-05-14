@@ -19,7 +19,7 @@ Claassen, R., **Kwok, C.**, & Rector, T. (2021, November 24-26). Conference Orga
 
 **Kwok, C.**, Claassen, R., & Rector, T. (2021, September 7-10). Workshop Convener: [Political Theory of the Business Corporation](https://sites.manchester.ac.uk/mancept/political-theory-of-the-business-corporation/). MANCEPT Workshops 2021. Manchester Centre for Political Theory, The University of Manchester, Manchester, UK. Converted to virtual due to COVID-19.
 
-**Participant**
+**Presenter**
 
 **Kwok, C.** (2021, September 30-October 3). Confucianism and the political theory of the corporation. Paper to be presented at American Political Science Association (APSA) 2021 Annual Meeting & Exhibition, Seattle, WA, USA. 
 

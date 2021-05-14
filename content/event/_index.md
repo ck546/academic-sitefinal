@@ -21,7 +21,9 @@ Claassen, R., **Kwok, C.**, & Rector, T. (2021, November 24-26). Conference Orga
 
 **Participant**
 
-**Kwok, C.** (2021, September 30-October 3). Confucianism and the Political Theory of the Corporation. Paper to be presented at American Political Science Association (APSA) 2021 Annual Meeting & Exhibition, Seattle, WA, USA. 
+**Kwok, C.** (2021, September 30-October 3). Confucianism and the political theory of the corporation. Paper to be presented at American Political Science Association (APSA) 2021 Annual Meeting & Exhibition, Seattle, WA, USA. 
+
+**Kwok, C.**, & Rector, T. (2021, August 9-21). The ontological questions of data power. Paper to be presented at Social Ontology 2021, University of California, San Diego, CA, USA. Converted to virtual due to COVID-19.
 
 **Kwok, C.** (2021, April 14-18). Political political theory of the business corporation: Corporate political power and the political legitimacy of business corporations. Paper presented at Midwest Political Science Association (MPSA) 76th Annual Conference, Palmer House Hilton, Chicago, IL, USA. Converted to virtual due to COVID-19.
 

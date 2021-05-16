@@ -23,15 +23,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=H7nrpDMAAAAJ&hl=en
-  - icon: academia
-    icon_pack: ai
-    link: https://uu.academia.edu/ChiKwok
-  - display:
-      header: false
-    icon: publons
-    label: ""
-    icon_pack: ai
-    link: https://publons.com/researcher/4238018/chi-kwok/peer-review/
   - display:
       header: false
     link: https://orcid.org/0000-0003-3754-2447

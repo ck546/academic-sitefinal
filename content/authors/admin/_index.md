@@ -12,7 +12,6 @@ interests:
   - Data Ethics
   - Politics of Platforms and Algorithms
   - Comparative Political Philosophy
-  - Hong Kong Studies
 social:
   - icon: envelope
     icon_pack: fas

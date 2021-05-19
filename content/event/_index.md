@@ -1,16 +1,16 @@
 ---
 abstract: /
 view: 1
-title: Conferences & Workshops
-location: /
 date_end: 2021-02-03T23:00:00.000Z
 all_day: true
+event: /
 event_url: /
 header:
   caption: ""
   image: ""
+title: Conferences & Workshops
+location: /
 date: 2021-02-06T16:52:07.938Z
-event: /
 publishDate: 2021-02-06T16:52:07.988Z
 ---
 **Organizer**
@@ -50,5 +50,3 @@ Chan, N. K., & **Kwok, C.** (2020, October 28-31). Guerilla capitalism and the p
 **Kwok, C.** (2018, February 2). Work autonomy and workplace justice. Paper presented at Political Theory Research Workshop, Center for Ethics, University of Toronto, Toronto, Ontario, Canada.
 
 **Kwok, C.**, & Chan, N. K. (2016, July 23-28). Forced democratization in social movement: A case study of the Umbrella Movement in Hong Kong. Paper presented at International Political Science Association 24th World Congress of Political Science, Poznan, Poland.
-
-**Kwok, C.** (2014, August 2-3). The liberal conception of human agency: A critique (in Chinese). Paper presented at The Idea of Left-liberalism in China: Theory and Practice Conference 2014, Universities Service Centre for China Studies, The Chinese University of Hong Kong, Hong Kong.

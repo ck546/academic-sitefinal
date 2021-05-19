@@ -4,7 +4,7 @@ role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Democratic Theory
+  - Business Corporations
   - Workplace Democracy
   - Business Ethics
   - Data Ethics

@@ -13,12 +13,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:c.kwok@uu.nl
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ckwokck
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com.hk/citations?user=H7nrpDMAAAAJ&hl=en
   - display:
       header: false
     link: https://orcid.org/0000-0003-3754-2447

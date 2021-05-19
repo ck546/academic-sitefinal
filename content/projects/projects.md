@@ -46,12 +46,9 @@ subtitle = ""
     tag = "corporation"
     
    [[content.filter_button]]
-    name = "Politics of Data and Algorithms"
+    name = "Gig Economy"
     tag = "data"
     
-   [[content.filter_button]]
-    name = "Social Movement"
-    tag = "movement"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

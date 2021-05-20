@@ -22,16 +22,7 @@ organizations:
   - name: Department of Philosophy and Religious Studies, Utrecht University
     url: https://www.uu.nl/en/organisation/department-of-philosophy-and-religious-studies
 education:
-  courses:
-    - course: PhD in Political Science
-      institution: University of Toronto
-      year: 2020
-    - course: MA in Political Science
-      institution: University of Toronto
-      year: 2014
-    - course: BSSc in Government and Public Administration with Honours (First Class)
-      institution: The Chinese University of Hong Kong
-      year: 2013
+  courses: []
 email: ""
 superuser: true
 user_groups:

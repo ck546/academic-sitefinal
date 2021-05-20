@@ -15,11 +15,6 @@ social:
     link: mailto:c.kwok@uu.nl
   - display:
       header: false
-    link: https://orcid.org/0000-0003-3754-2447
-    icon_pack: ai
-    icon: orcid
-  - display:
-      header: false
     icon_pack: ai
     icon: cv
     link: https://www.chikwok.com/files/cv.pdf
@@ -37,11 +32,11 @@ education:
     - course: BSSc in Government and Public Administration with Honours (First Class)
       institution: The Chinese University of Hong Kong
       year: 2013
+email: ""
 superuser: true
 user_groups:
   - Researchers
 highlight_name: false
-email: ""
 ---
 Welcome to my homepage! I am a postdoctoral researcher in the Department of Philosophy and Religious Studies at Utrecht University in The Netherlands.  I specialize in political theory and comparative development studies. I recently received the [Helen Potter Award](https://socialeconomics.org/awards-grants/hellen-potter-award/) from the Association for Social Economics (ASE) for the best article published in the *Review of Social Economy* and the[ Best Student Paper Award](https://aoir.org/awards/student-paper/) from the Association of Internet Researchers (AoIR).
 

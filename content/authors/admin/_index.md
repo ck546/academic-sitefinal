@@ -4,11 +4,12 @@ role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Business Corporations
+  - Business Corporation
   - Workplace Democracy
   - Business Ethics
   - Data Ethics
   - Gig Economy
+  - Contentious Politics
 social:
   - icon: envelope
     icon_pack: fas

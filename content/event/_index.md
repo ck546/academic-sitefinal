@@ -1,16 +1,16 @@
 ---
 abstract: /
 view: 1
+title: Conferences & Workshops
+location: /
 date_end: 2021-02-03T23:00:00.000Z
 all_day: true
-event: /
 event_url: /
 header:
   caption: ""
   image: ""
-title: Conferences & Workshops
-location: /
 date: 2021-02-06T16:52:07.938Z
+event: /
 publishDate: 2021-02-06T16:52:07.988Z
 ---
 **Organizer**
@@ -20,6 +20,8 @@ Claassen, R., **Kwok, C.**, & Rector, T. (2021, November 24-26). Conference Orga
 **Kwok, C.**, Claassen, R., & Rector, T. (2021, September 7-10). Workshop Convener: [Political Theory of the Business Corporation](https://sites.manchester.ac.uk/mancept/political-theory-of-the-business-corporation/). MANCEPT Workshops 2021. Manchester Centre for Political Theory, The University of Manchester, Manchester, UK. Converted to virtual due to COVID-19.
 
 **Presenter**
+
+**Kwok, C.**, & Chan, N. K. (2021, October 12-16). Towards a multi-dimensional theory of temporal control in the gig economy. Paper to be presented at the 22nd Annual Meeting of the Association of Internet Researchers (AoIR), Virtual Event.
 
 **Kwok, C.** (2021, September 30-October 3). Confucianism and the political theory of the corporation. Paper to be presented at American Political Science Association (APSA) 2021 Annual Meeting & Exhibition, Seattle, WA, USA. 
 

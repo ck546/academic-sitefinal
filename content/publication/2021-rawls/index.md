@@ -1,10 +1,10 @@
 ---
-title: A Theory of Justice in the age of neoliberalism
+title: *A Theory of Justice* in the age of neoliberalism
 publication_types:
   - "2"
 authors:
   - admin
-publication: Twenty-First Century
+publication: *Twenty-First Century, 185*, 41-50.
 draft: false
 featured: false
 image:

@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - admin
-publication: "*Twenty-First Century, 185*, 41-50."
+publication: "*Twenty-First Century, 185*, 41-50"
 draft: false
 featured: false
 image:

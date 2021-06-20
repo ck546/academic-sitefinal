@@ -1,7 +1,10 @@
 ---
-title: 2021-rawls
+title: "*A Theory of Justice* in the age of neoliberalism
 publication_types:
-  - "0"
+  - "2"
+authors:
+  - admin
+publication: "*Twenty-First Century, 185*, 41-50"
 draft: false
 featured: false
 image:

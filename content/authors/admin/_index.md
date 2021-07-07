@@ -14,25 +14,20 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:c.kwok@uu.nl
-  - display:
-      header: false
-    icon_pack: ai
-    icon: cv
-    link: https://www.chikwok.com/files/cv.pdf
 organizations:
   - name: Department of Philosophy and Religious Studies, Utrecht University
     url: https://www.uu.nl/en/organisation/department-of-philosophy-and-religious-studies
 education:
   courses:
     - course: PhD in Political Science
-      year: 2020
+      year: ""
       institution: University of Toronto
     - course: MA in Political Science
       institution: University of Toronto
-      year: 2014
+      year: ""
     - course: BSSc with Honours (First Class)
       institution: The Chinese University of Hong Kong
-      year: 2013
+      year: ""
 email: ""
 superuser: true
 user_groups:

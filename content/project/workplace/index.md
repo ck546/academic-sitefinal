@@ -6,7 +6,7 @@ authors:
   - admin
 url_video: ""
 date: 2018-09-01T00:00:00Z
-external_link: https://www.chikwok.com/project/workplace/
+external_link: 
 url_slides: ""
 title: "Justice in the Workplace: A Political Theory of Workplace Control "
 tags:

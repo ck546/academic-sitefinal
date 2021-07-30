@@ -6,7 +6,7 @@ authors:
   - admin
 url_video: ""
 date: 2018-09-01T00:00:00Z
-external_link: https://www.chikwok.com/project/corpo/
+external_link: 
 url_slides: ""
 title: Economic, Political, and Comparative Theories of the Business Corporation
 tags:

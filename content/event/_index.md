@@ -15,7 +15,7 @@ publishDate: 2021-02-06T16:52:07.988Z
 ---
 **Organizer**
 
-**Kwok, C.**, Claassen, R., & Rector, T. (2021, September 7-10). Workshop Convener: [Political Theory of the Business Corporation](https://sites.manchester.ac.uk/mancept/political-theory-of-the-business-corporation/). MANCEPT Workshops 2021. Manchester Centre for Political Theory, The University of Manchester, Manchester, UK. Virtual Event.
+**Kwok, C.**, Claassen, R., & Rector, T. (2021, September 7-10). Workshop Convener: Political Theory of the Business Corporation. MANCEPT Workshops 2021. Manchester Centre for Political Theory, The University of Manchester, Manchester, UK. Virtual Event.
 
 **Presenter**
 

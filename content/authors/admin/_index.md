@@ -20,12 +20,12 @@ education:
   courses:
     - course: PhD in Political Science
       year: ""
-      institution: UofT
+      institution: University of Toronto
     - course: MA in Political Science
-      institution: UofT
+      institution: University of Toronto
       year: ""
     - course: BSSc with Honours (First Class)
-      institution: CUHK
+      institution: The Chinese University of Hong Kong
       year: ""
 email: ""
 superuser: true

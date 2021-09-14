@@ -13,7 +13,7 @@ date: 2021-02-06T16:52:07.938Z
 event: /
 publishDate: 2021-02-06T16:52:07.988Z
 ---
-**Refeered Journal Articles**
+**Journal Articles**
 
 **Kwok, C.** (2021). Temporal control at work: Qualitative time and temporal injustice in the workplace. *Journal of Social Philosophy*. Advanced online publication. doi: 10.1111/josp.12433
 

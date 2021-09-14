@@ -15,8 +15,6 @@ publishDate: 2021-02-06T16:52:07.988Z
 ---
 **Organizer**
 
-Claassen, R., **Kwok, C.**, & Rector, T. (2021, November 24-26). Conference Organizer: [The Business Corporation as Political Actor – Comparative Theoretical Perspectives](https://philevents.org/event/show/90079). Utrecht University, Utrecht, The Netherlands. Virtual Event.
-
 **Kwok, C.**, Claassen, R., & Rector, T. (2021, September 7-10). Workshop Convener: [Political Theory of the Business Corporation](https://sites.manchester.ac.uk/mancept/political-theory-of-the-business-corporation/). MANCEPT Workshops 2021. Manchester Centre for Political Theory, The University of Manchester, Manchester, UK. Virtual Event.
 
 **Presenter**
@@ -24,6 +22,10 @@ Claassen, R., **Kwok, C.**, & Rector, T. (2021, November 24-26). Conference Orga
 **Kwok, C.**, & Chan, N. K. (2021, October 12-16). Towards a multi-dimensional theory of temporal control in the gig economy. Paper to be presented at the 22nd Annual Meeting of the Association of Internet Researchers (AoIR), Virtual Event.
 
 **Kwok, C.** (2021, September 30-October 3). Confucianism and the political theory of the corporation. Paper to be presented at American Political Science Association (APSA) 2021 Annual Meeting & Exhibition, Seattle, WA, USA. 
+
+Philipp, S., & **Kwok, C.** (2021, September 7-9). Harmony or hostility? On unions and the concept of conflict in corporate law. Paper presented at MANCEPT Workshop 2021: Political Theory of the Business Corporation. Manchester Centre for Political Theory, The University of Manchester, Manchester, UK. Virtual Event.
+
+**Kwok, C.**, & Chan, N. K. (2021, September 7-10). Algorithms, time, and the gig economy: Towards an intersectional approach of temporally-mediated injustice in the gig economy. Paper presented at MANCEPT Workshops 2021: Justice and Nonstandard Work. Manchester Centre for Political Theory, The University of Manchester, Manchester, UK. Virtual Event.
 
 **Kwok, C.**, & Rector, T. (2021, August 9-21). The ontological questions of data power. Paper to be presented at Social Ontology 2021, University of California, San Diego, CA, USA. Virtual Event.
 

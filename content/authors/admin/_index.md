@@ -1,6 +1,6 @@
 ---
 title: Chi Kwok
-role: Postdoctoral Researcher
+role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: ""
 interests:

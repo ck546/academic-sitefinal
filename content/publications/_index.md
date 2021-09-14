@@ -21,7 +21,7 @@ Chan, N. K., & **Kwok, C.** (forthcoming). The politics of platform power in sur
 
 **Kwok, C.**, & Chan, N. K. (2021). Towards a political theory of data justice: A public good perspective. *Journal of Information, Communication and Ethics in Society*. Advacned online publication. doi: 10.1108/JICES-11-2020-0117
 
-**Kwok, C.** (2021). A Theory of Justice in the age of neoliberalism (in Chinese). *Twenty-First Century, 185*, 41-50.
+**Kwok, C.** (2021). *A Theory of Justice* in the age of neoliberalism (in Chinese). *Twenty-First Century, 185*, 41-50.
 
 Chan, N. K., & **Kwok, C.** (2021). Guerilla capitalism and the platform economy: Governing Uber in China, Taiwan, and Hong Kong. *Information, Communication & Society, 24*(6), 780-796.
 

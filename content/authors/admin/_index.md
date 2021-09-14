@@ -1,7 +1,7 @@
 ---
 title: Chi Kwok
 role: Postdoctoral Researcher
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Business Corporation
@@ -13,10 +13,9 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:c.kwok@uu.nl
+    link: mailto:chikwok@ln.edu.hk
 organizations:
-  - name: Department of Philosophy and Religious Studies, Utrecht University
-    url: https://www.uu.nl/en/organisation/department-of-philosophy-and-religious-studies
+  - name: Department of Political Science, Lingnan University
 education:
   courses:
     - course: PhD in Political Science
@@ -34,6 +33,4 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
-Welcome to my homepage! I am a postdoctoral researcher in the Department of Philosophy and Religious Studies at Utrecht University in The Netherlands.  I specialize in political theory and comparative development studies.
-
-My research has appeared in journals such as *Philosophy & Social Criticism*, *Review of Social Economy*, *Information, Communication & Society*, among others.
+I am an Assistant Professor in the Department of Political Science at Lingnan University.  I specialize in political theory and comparative development studies. My research has appeared in journals such as, among others, *Philosophy & Social Criticism*, *Review of Social Economy*, *Information, Communication & Society*.

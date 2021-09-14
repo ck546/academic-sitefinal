@@ -25,7 +25,7 @@ Chan, N. K., & **Kwok, C.** (forthcoming). The politics of platform power in sur
 
 Chan, N. K., & **Kwok, C.** (2021). Guerilla capitalism and the platform economy: Governing Uber in China, Taiwan, and Hong Kong. *Information, Communication & Society, 24*(6), 780-796.
 
-**Kwok, C.* (2020). Epistemic injustice in workplace hierarchies: Power, knowledge and status. *Philosophy & Social Criticism*. Advanced online publication. doi: 10.1177/0191453720961523
+**Kwok, C.** (2020). Epistemic injustice in workplace hierarchies: Power, knowledge and status. *Philosophy & Social Criticism*. Advanced online publication. doi: 10.1177/0191453720961523
 
 **Kwok, C.**, & Chan, N. K. (2020). The making of contentious political space: The transformation of Victoria Park in Hong Kong. *Space and Culture*. Advanced online publication. doi: 10.1177/1206331220912160
 

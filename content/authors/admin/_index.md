@@ -33,4 +33,4 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
-I am an Assistant Professor in the Department of Political Science at Lingnan University.  I specialize in political theory and comparative development studies. My research has appeared in journals such as, among others, *Philosophy & Social Criticism*, *Review of Social Economy*, *Information, Communication & Society*.
+I am an Assistant Professor in the Department of Political Science at Lingnan University.  I specialize in political theory and comparative development studies. My research has appeared in journals such as, among others, *Journal of Social Philosophy*, *Philosophy & Social Criticism*, *Review of Social Economy*, and *Information, Communication & Society*.

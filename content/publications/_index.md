@@ -15,6 +15,8 @@ publishDate: 2021-02-06T16:52:07.988Z
 ---
 **Journal Articles**
 
+Chan, N. K., & **Kwok, C.** (forthcoming). The politics of platform power in surveillance capitalism: A comparative case study of ride-hailing platforms in China and the United States. *Global Media & China*.
+
 **Kwok, C.** (2021). Temporal control at work: Qualitative time and temporal injustice in the workplace. *Journal of Social Philosophy*. Advanced online publication. doi: 10.1111/josp.12433
 
 **Kwok, C.**, & Chan, N. K. (2021). Towards a political theory of data justice: A public good perspective. *Journal of Information, Communication and Ethics in Society*. Advacned online publication. doi: 10.1108/JICES-11-2020-0117

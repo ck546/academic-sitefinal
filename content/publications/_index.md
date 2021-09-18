@@ -19,7 +19,7 @@ Chan, N. K., & **Kwok, C.** (forthcoming). The politics of platform power in sur
 
 **Kwok, C.** (2021). Temporal control at work: Qualitative time and temporal injustice in the workplace. *Journal of Social Philosophy*. Advanced online publication. doi: 10.1111/josp.12433
 
-**Kwok, C.**, & Chan, N. K. (2021). Towards a political theory of data justice: A public good perspective. *Journal of Information, Communication and Ethics in Society*. Advacned online publication. doi: 10.1108/JICES-11-2020-0117
+**Kwok, C.**, & Chan, N. K. (2021). Towards a political theory of data justice: A public good perspective. *Journal of Information, Communication and Ethics in Society, 19*(3), pp. 374-390. doi: 10.1108/JICES-11-2020-0117
 
 **Kwok, C.** (2021). *A Theory of Justice* in the age of neoliberalism (in Chinese). *Twenty-First Century, 185*, 41-50.
 

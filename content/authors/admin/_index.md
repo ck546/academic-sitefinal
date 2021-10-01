@@ -8,6 +8,7 @@ interests:
   - Corporate Power
   - Gig Economy
   - Workplace Democracy
+  - Comparative Political Theory
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,4 +32,4 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
-I am an Assistant Professor in the Department of Political Science at Lingnan University.  I specialize in political theory and comparative development studies. My research has appeared in journals such as, among others, *Journal of Social Philosophy*, *Philosophy & Social Criticism*, *Review of Social Economy*, and *Information, Communication & Society*.
+I am an Assistant Professor in the Department of Political Science at Lingnan University.  I specialize in political theory and comparative development studies. My current research interests include the political theory of the business corporation, justice in the gig economy, data ethics, workplace justice, and comparative political theory (with a focus on Confucianism). My research has appeared in journals such as, among others, *Journal of Social Philosophy*, *Philosophy & Social Criticism*, *Review of Social Economy*, and *Information, Communication & Society*.

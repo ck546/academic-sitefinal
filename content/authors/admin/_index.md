@@ -4,12 +4,10 @@ role: Assistant Professor
 avatar_filename: ""
 bio: ""
 interests:
-  - Business Corporation
-  - Workplace Democracy
-  - Business Ethics
-  - Data Ethics
+  - Political Economy
+  - Corporate Power
   - Gig Economy
-  - Contentious Politics
+  - Workplace Democracy
 social:
   - icon: envelope
     icon_pack: fas

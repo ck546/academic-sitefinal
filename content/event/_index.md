@@ -19,6 +19,8 @@ publishDate: 2021-02-06T16:52:07.988Z
 
 **Presenter**
 
+**Kwok, C.** (2022, April 7-10). Epistemic injustice in global production. Paper presented at Midwest Political Science Association (MPSA) 79th Annual Conference, Palmer House Hilton, Chicago, IL, USA. Virtual Participation.
+
 **Kwok, C.**, & Chan, N. K. (2021, October 12-16). Towards a multi-dimensional theory of temporal control in the gig economy. Paper to be presented at the 22nd Annual Meeting of the Association of Internet Researchers (AoIR), Virtual Event.
 
 **Kwok, C.** (2021, September 30-October 3). Confucianism and the political theory of the corporation. Paper to be presented at American Political Science Association (APSA) 2021 Annual Meeting & Exhibition, Seattle, WA, USA. 
@@ -29,9 +31,9 @@ Philipp, S., & **Kwok, C.** (2021, September 7-9). Harmony or hostility? On unio
 
 **Kwok, C.**, & Rector, T. (2021, August 9-21). The ontological questions of data power. Paper to be presented at Social Ontology 2021, University of California, San Diego, CA, USA. Virtual Event.
 
-**Kwok, C.** (2021, April 14-18). Political political theory of the business corporation: Corporate political power and the political legitimacy of business corporations. Paper presented at Midwest Political Science Association (MPSA) 76th Annual Conference, Palmer House Hilton, Chicago, IL, USA. Virtual Event.
+**Kwok, C.** (2021, April 14-18). Political political theory of the business corporation: Corporate political power and the political legitimacy of business corporations. Paper presented at Midwest Political Science Association (MPSA) 78th Annual Conference, Palmer House Hilton, Chicago, IL, USA. Virtual Event.
 
-**Kwok, C.**,  (2021, April 14-18). The modern structure of business corporations and their limited moral sensibility: Democratization of corporate governance and the morally sensible agent. Paper presented at MPSA 76th Annual Conference, Palmer House Hilton, Chicago, IL, USA. Virtual Event.
+**Kwok, C.**,  (2021, April 14-18). The modern structure of business corporations and their limited moral sensibility: Democratization of corporate governance and the morally sensible agent. Paper presented at MPSA 78th Annual Conference, Palmer House Hilton, Chicago, IL, USA. Virtual Event.
 
 **Kwok, C.** (2021, March 18). Taking corporate political power seriously: Beyond the firm-state analogy. Paper to be presented at Spring Workshop of the ERC Corporatocracy Project, Department of Philosophy and Religious Studies, Utrecht University, Utrecht, The Netherlands. Virtual Event.
 

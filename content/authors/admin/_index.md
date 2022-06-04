@@ -1,7 +1,7 @@
 ---
 title: Chi Kwok
 role: Assistant Professor
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Political Economy
@@ -19,12 +19,12 @@ education:
   courses:
     - course: PhD in Political Science
       year: ""
-      institution: UofT
+      institution: University of Toronto
     - course: MA in Political Science
-      institution: UofT
+      institution: University of Toronto
       year: ""
     - course: BSSc with Honours (First Class)
-      institution: CUHK
+      institution: The Chinese University of Hong Kong
       year: ""
 email: ""
 superuser: true
@@ -32,4 +32,4 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
-I am an Assistant Professor in the Department of Political Science at Lingnan University in Hong Kong. I specialize in political theory and comparative development studies. My current research interests include the political theory of the business corporation, justice in the gig economy, data ethics, workplace justice, and comparative political theory (with a focus on Confucianism). My research has appeared in journals such as, among others, *Journal of Social Philosophy*, *Philosophy & Social Criticism*, *Review of Social Economy*, and *Information, Communication & Society*. 
+I am an Assistant Professor in the Department of Political Science at Lingnan University in Hong Kong. I specialize in political theory and comparative development studies. My current research interests include corporate power, the gig economy, data ethics, workplace democracy, and comparative political theory (with a focus on Confucianism). My research has appeared in journals such as, among others, *Journal of Social Philosophy*, *Philosophy & Social Criticism*, *Review of Social Economy*, and *Information, Communication & Society*.

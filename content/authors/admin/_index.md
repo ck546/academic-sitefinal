@@ -14,7 +14,7 @@ social:
     icon_pack: fas
     link: mailto:chikwok@ln.edu.hk
 organizations:
-  - name: Department of Political Science, Lingnan University
+  - name: Department of Government and International Affairs, Lingnan University
 education:
   courses:
     - course: PhD in Political Science
@@ -32,4 +32,4 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
-I am an Assistant Professor in the Department of Political Science at Lingnan University in Hong Kong. I specialize in political theory and comparative development studies. My current research interests include corporate power, the gig economy, data ethics, workplace democracy, and comparative political theory (with a focus on Confucianism). My research has appeared in journals such as, among others, *Journal of Social Philosophy*, *Philosophy & Social Criticism*, *Review of Social Economy*, and *Information, Communication & Society*.
+I am an Assistant Professor in the Department of Government and International Affairs at Lingnan University in Hong Kong. I specialize in political theory and comparative development studies. My current research interests include corporate power, the gig economy, workplace democracy, and comparative political theory (with a focus on Confucianism). My research has appeared in journals such as, among others, *Journal of Social Philosophy*, *Philosophy & Social Criticism*, *Review of Social Economy*, and *Information, Communication & Society*.
